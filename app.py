@@ -7,8 +7,8 @@ st.set_page_config(page_title="Files Converter", layout="wide")
 
 st.markdown("""
     <style>
-        .main { background-color: #f5f7fa; }
-        .stButton button { background-color: #4CAF50; color: white; border-radius: 8px; }
+        .main { background-color:rgb(88, 139, 215); }
+        .stButton button { background-color:rgb(36, 129, 39); color: white; border-radius: 8px; }
         .stCheckbox label { font-weight: bold; }
         .stRadio label { font-weight: bold; }
     </style>
